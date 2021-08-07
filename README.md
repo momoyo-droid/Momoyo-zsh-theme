@@ -1,6 +1,7 @@
 # Theme for Oh-My-Zsh
 A theme for the oh-my-zsh terminal.
 # Preview
+![zsh-curto](https://user-images.githubusercontent.com/68512242/128436901-174878a6-2df9-4159-b6e0-ca28a88c944d.gif)
 
 ## Installation Manually
 1. Copy file `momoyo.zsh-theme` to `$ZSH_CUSTOM/themes` folder.
